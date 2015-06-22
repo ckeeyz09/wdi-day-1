@@ -1,0 +1,6 @@
+Three things I learned:
+1. Everything that is transferred over the internet, be it video, calls, etc., is broken down into small sections called packets. Each packet is about 1000-1500 bytes in size.
+
+2. The newest form of IP addresses, IPv6, uses an IP address that is 128 characters long.
+
+3. My code will never work the first time. And probably not the second time either.
